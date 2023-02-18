@@ -7,7 +7,7 @@
  *
  * Description: A program that assigns a random num
  *
- * return: Always 0.
+ * Return: Always 0.
  */
 int main(void)
 {
