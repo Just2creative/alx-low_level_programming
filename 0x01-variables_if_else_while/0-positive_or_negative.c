@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - print a random num
  *
  * Description: A program that assigns a random num
  *
- * return: 0 (success)
+ * return: Always 0.
  */
 int main(void)
 {
